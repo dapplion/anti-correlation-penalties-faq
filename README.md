@@ -9,4 +9,4 @@ The decentralization of the validator set is one of the most important propertie
 - [Quantitative analysis](https://ethresear.ch/t/analysis-on-correlated-attestation-penalties/19244)
 - [Original proposal](https://ethresear.ch/t/a-concrete-proposal-for-correlated-attester-penalties/19341)
 
-
+![SVDA](./SVDA.jpg)
