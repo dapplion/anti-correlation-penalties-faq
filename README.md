@@ -9,7 +9,7 @@ The decentralization of the validator set is one of the most important propertie
 - [Quantitative analysis](https://ethresear.ch/t/analysis-on-correlated-attestation-penalties/19244)
 - [Original proposal](https://ethresear.ch/t/a-concrete-proposal-for-correlated-attester-penalties/19341)
 
-![SVDA](./SVDA.jpg)
+![SVDA](./img/SVDA.jpg)
 
 ## Why?
 
@@ -23,7 +23,7 @@ Anti-correlation penalties are smaller and much more sensitive, such that they a
 
 Offline penalties are now scaled by a new factor called **penalty factor**. When a lot of stake goes offline at the same time, the penalty factor increases temporarily.
 
-![penalty factor chart](./penalty_factor_chart.png)
+![penalty factor chart](./img/penalty_factor_chart.png)
 
 Operators managing enough stake may respond to the proposal with any of this actions:
 - Diversify their setup to reduce the probability of correlated offline behaviour
