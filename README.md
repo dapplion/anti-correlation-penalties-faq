@@ -5,6 +5,7 @@ The decentralization of the validator set is one of the most important propertie
 ## Learn more
 
 - [Lighthouse implementation](https://github.com/igorline/lighthouse/pull/1)
+- [Spec implementation](https://github.com/ethereum/consensus-specs/pull/3780)
 - [EIP draft](https://github.com/ethereum/EIPs/commit/42a8d6424d048724ec4d5a41ec9418cf50ec95d2)
 - [Quantitative analysis](https://ethresear.ch/t/analysis-on-correlated-attestation-penalties/19244)
 - [Original proposal](https://ethresear.ch/t/a-concrete-proposal-for-correlated-attester-penalties/19341)
